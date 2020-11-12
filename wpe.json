@@ -1,0 +1,12 @@
+{
+  "name": "wpe-gatsby-simple",
+  "repo": "konrad-glowacki/wpe-gatsby-simple",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "kongloheaddev",
+      "secrets": []
+    }
+  ]
+}
